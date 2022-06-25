@@ -16,7 +16,7 @@ Iteradores de encerramento (Terminating Iterators)'''
 '''Função cycle
 Assinatura da função: cycle(iterable)
 
-Esta função imprime todos os valores em ordem a partir do iterável iterable
+Esta função imprime todos os valores em ordem a partir do iterável (iterable)
 passado como parâmetro. Ele reinicia a impressão do início novamente quando
 todos os elementos são impressos de maneira cíclica.
 Entenda melhor no exempo a seguir:'''
@@ -44,3 +44,4 @@ print()
 print('-='*40)
 print(f'{"Programa Finalizado com Sucesso":^80}')
 print('-='*40)
+
