@@ -21,7 +21,7 @@
 ### Lista de exercícios com aproximadamente 150 exercícios de Python 03
 
 
-```pytho
+```python
 # Enunciado: Jogo de Adivinhação com direito a Palpites 
 # Programa Desenvolvido em Python 03
 '''Crie um programa (jogo) onde o computador vai "Pensar" em um número entre 0 e 10. O jogador vai tentar adivinhar até acertar, ou seja, o programa termina se o jogador acertar.No final mostra quantos palpites foram necessários para vencer.'''
