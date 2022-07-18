@@ -14,6 +14,8 @@
 
  ## IMPORTANTE: ##
  
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/aulas-de-python/blob/main/LICENSE) 
+ 
  <p align="center">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p><br>
 
 <img src="captura.png" alt="logo python no formato png"><br>
