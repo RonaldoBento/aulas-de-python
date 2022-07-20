@@ -1,7 +1,6 @@
 # Enunciado: Tkinter - Testando o pacote (Interface Python para tcl/Tk)
 # GUI - Graphic User Interface (Interface Gráfica de usuário) 
 
-
 from tkinter import*
 
 janela = Tk()
