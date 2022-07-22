@@ -20,7 +20,7 @@
 
 <img src="captura.png" alt="logo python no formato png"><br>
 
-### Lista de exercícios com aproximadamente 150 exercícios de Python 03
+### Lista de exercícios com aproximadamente 150 exercícios em Python 03
 
 
 ```python
