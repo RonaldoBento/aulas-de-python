@@ -1,4 +1,4 @@
-# Enunciado: Jogo de Adivinhação com direito a Palpites 
+# Enunciado: Jogo da Velha
 # Programa Desenvolvido em Python 03
 # Desenvolva um programa no caso o famigerado JOGO DA VELHA.
 
