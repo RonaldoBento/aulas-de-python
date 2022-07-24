@@ -1,12 +1,14 @@
 # aulas-de-python 
-# Exercícios Básicos de Python 03
-# Lógica de Programação
+## Exercícios Básicos de Python 03
+## Lógica de Programação
 
 <p> Na realidade um programa é um conjunto de milhares de instruções que indicam ao computador, passo a passo, o que ele precisa fazer. Logo, um programa nada mais é do que um algoritmo computacional descrito em uma linguagem de programação, no caso, utilisando a  simplicidade da linguagem Python que possui um enorme potencial não apenas como uma linguagem poderosa de programação, mas como uma  ferramenta para mudar o seu futuro como desenvolvedor...</p><br>
 
 ## Como Executar um Script Python?
 
 <img src="logo.png" alt="logo python no formato png"><br>
+
+<h2>:bookmark_tabs: Descrição</h2>
 
 <p>Para instalar o Python no seu sistema operacional Windows, você precisa baixar o instalador. Acesse o site oficial <a href="https://www.python.org/downloads/" target="_blank">neste link</a> e clique em download.</p>
 
