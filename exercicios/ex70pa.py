@@ -17,6 +17,7 @@ while contador <= 10:
     termo += razao
     contador += 1 
 print('FIM\033[m')
+
 print()
 print('-='*40)
 print(f'\033[1;34m{"Programa Finalizado com Sucesso":^80}\033[m')
