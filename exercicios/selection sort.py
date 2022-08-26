@@ -6,6 +6,12 @@ mais básicos para ordenação e a sua ideia é bastante intuitiva, de modo que 
 pode acabar pensando em algo similar mesmo sem nunca tê-lo visto.
 O selection sort é um algoritmo de ordenação com complexidade de tempo quadrática.'''
 
+print() 
+print('-='*40)
+print(f'\033[1;36m{" Algoritmo de Ordenação: Selection Sort":^80}\033[m')
+print('-='*40)
+print() 
+
 import random
 
 # Selection Sort
@@ -41,11 +47,11 @@ repeated = [7, 7, 7, 7, 7, 1, 1, 9, 9, 0, 4, 4, 4, 5, 4, 5, 7, 1,]
 
 if __name__ == "__main__":
     print()
-    print(''' Listas:
+    print('''\033[1:37m Listas:
                 Números aleatórios: any_numbers, 
                 Já ordenados: already_sorted, 
                 Ordem inversa: inversed, 
-                Elementos repetidos: repeated.''')
+                Elementos repetidos: repeated.\033[m''')
     print()
     lista = repeated # Escolha entre uma das listas 
     print(lista)
@@ -53,7 +59,12 @@ if __name__ == "__main__":
     print("\n Ordenado:")
     print()
     print(lista)
-    
+   
+print() 
+print('-='*40)
+print(f'\033[1;32m{" Programa Finalizado com Sucesso":^80}\033[m')
+print('-='*40)
+print()  
         
     
 
