@@ -6,14 +6,12 @@ from rich import print
 
 print() 
 print('-='*40)
-print(f'[blue]{" Escola de Línguas Orlando de Campos":^80}[/]')
+print(f'[blue][bold]{" Escola de Línguas Orlando de Campos":^80}[/][/]')
 print('-='*40)
 print() 
 
 contador = 1
 maior_nota = 0
-
-
 
 total = int(input(' Informe quantos alunos há em sala de aula: '))
 while contador <= total:
@@ -30,6 +28,6 @@ print(f' O melhor aproveitamento foi do aluno {melhor_aluno} com a nota {maior_n
      
 print() 
 print('-='*40)
-print(f'[green]{" Programa Finalizado com Sucesso":^80}[/]')
+print(f'[green][bold]{" Programa Finalizado com Sucesso":^80}[/][/]')
 print('-='*40)
 print() 
