@@ -1,0 +1,17 @@
+ Ronaldo;40
+ Amanda;39
+ Fabiana;35
+ Vanessa;33
+ Katia;30
+ Luana;22
+ Leona;23
+ Belmiro;72
+ Caio;8
+ Lucas Gabriel;32
+ Caio Sabino;34
+ Eduarda;14
+ Laura;3
+ Bianca;33
+ Adilson Basto;34
+ Jada linda;28
+ Laura Braga;4
