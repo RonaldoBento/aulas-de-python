@@ -6,7 +6,9 @@
 	ou seja, como todos os integrantes da família poderia
     atravessar o rio com total segurança?
        
-	ATENÇÃO: A criança não pode atravessar e ficar sozinha.
+	ATENÇÃO: A criança não pode atravessar e ficar sozinha na margem do rio;
+    Poderá fazer várias viagens; 
+    Passou de 100 kg é Game Over.
 	  
 	Autor: Ronaldo Rodrigues Bento'''
 
